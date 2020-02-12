@@ -10,7 +10,7 @@ function unique(items) {
 }
 
 export default (
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Switch>
       <Route exact path="/">
         <InventoryContext.Consumer>
