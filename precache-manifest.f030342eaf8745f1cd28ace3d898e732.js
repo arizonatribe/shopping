@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4bd77bac26adab3716b003858375789",
+    "revision": "44cb5279923b5827f75de1146d7a1fe5",
     "url": "https://arizonatribe.github.io/shopping/index.html"
   },
   {
-    "revision": "888dca6fcbac26358980",
+    "revision": "e58110b62b0313fe7070",
     "url": "https://arizonatribe.github.io/shopping/static/css/main.88824ec2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://arizonatribe.github.io/shopping/static/js/2.d192706b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "888dca6fcbac26358980",
-    "url": "https://arizonatribe.github.io/shopping/static/js/main.f7f66053.chunk.js"
+    "revision": "e58110b62b0313fe7070",
+    "url": "https://arizonatribe.github.io/shopping/static/js/main.be7705e0.chunk.js"
   },
   {
     "revision": "226b8e23f02708759da7",
