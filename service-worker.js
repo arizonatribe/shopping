@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://arizonatribe.github.io/shopping/precache-manifest.55e881f7a1d58c470ea30b18e99f9185.js"
+  "https://arizonatribe.github.io/shopping/precache-manifest.b5da4b63cff0e4d4c262e7ee9ce11ac6.js"
 );
 
 self.addEventListener('message', (event) => {
