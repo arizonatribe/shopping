@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+- '9'
+script: npm run deploy
+deploy:
+  name: Dave Bot
+  local-dir: build
+  project-name: shopping
+  email: arizonatribe@gmail
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
