@@ -49,15 +49,17 @@ const LabeledAmount = styled.div`
   display: grid;
   align-items: center;
   justify-content: space-between;
-  grid-template-columns: repeat(2, 1fr);
-  padding: 0;
+  grid-template-areas: "amount-label item-amount";
 
-  & * {
+  & p {
     margin: 0;
     text-align: right;
     display: block;
   }
   & h3 {
+    grid-area: amount-label;
+    margin: 0;
+    display: block;
     text-align: left;
   }
 `
@@ -106,5 +108,6 @@ export const RemoveButton = styled.button`
   &:hover {
     color: white;
     background-color: darkgray;
+    transition-duration: 0.3s
   }
 `

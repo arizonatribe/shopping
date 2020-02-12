@@ -49,19 +49,21 @@ export const InventoryItem = styled.div`
     color: white;
     background-color: gray;
     border: 1px solid darkgray;
+    transition-duration: 0.3s
   }
 `
 
 const Amount = styled.p`
   display: block;
   grid-area: item-amount;
-  &::before {
-    content: "$";
-  }
 `
+
 export const ItemAmount = props => (
   <Amount>
-    {typeof props.children === "number" ? Number(props.children).toLocaleString("en") : props.children}
+    {typeof props.children === "number"
+      ? Number(props.children).toLocaleString("en", { currency: "USD", style: "currency" })
+      : props.children
+    }
   </Amount>
 )
 

@@ -30,8 +30,12 @@ const SortButton = styled.button`
 function SortByPrice(props) {
   return (
     <Sort>
-      <SortButton isHighlighted={props.currentSort === "ASC"} onClick={() => props.sortBy("ASC")}>ASC</SortButton>
-      <SortButton isHighlighted={props.currentSort === "DESC"} onClick={() => props.sortBy("DESC")}>DESC</SortButton>
+      <SortButton isHighlighted={props.currentSort === "ASC"} onClick={() => props.sortBy("ASC")}>
+        ASC
+      </SortButton>
+      <SortButton isHighlighted={props.currentSort === "DESC"} onClick={() => props.sortBy("DESC")}>
+        DESC
+      </SortButton>
     </Sort>
   )
 }

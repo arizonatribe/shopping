@@ -26,7 +26,7 @@ function Cart(props) {
     .filter(i => itemList.includes(`${i.id}`))
     .reduce((a, b) => a + b.price, 0)
   const tax = props.items
-    .filter(i => i.category !== "service" && itemList.includes(`${i.id}`))
+    .filter(i => i.category.toLowerCase() !== "service" && itemList.includes(`${i.id}`))
     .reduce((a, b) => a + (b.price * TAX_PCT), 0)
 
   function removeItem(item) {

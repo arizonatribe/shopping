@@ -73,7 +73,7 @@ function Inventory(props) {
           ))
         }
       </InventoryGrid>
-      <SortByPrice sortBy={sortByPrice} />
+      <SortByPrice currentSort={currentSort} sortBy={sortByPrice} />
     </InventoryPage>
   )
 }
