@@ -1,5 +1,5 @@
 import React from "react"
-import {BrowserRouter, Route, Switch} from "react-router-dom"
+import {HashRouter, Route, Switch} from "react-router-dom"
 
 import Cart from "./Cart"
 import Inventory from "./Inventory"
@@ -10,7 +10,7 @@ function unique(items) {
 }
 
 export default (
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter basename="/">
     <Switch>
       <Route exact path="/">
         <InventoryContext.Consumer>
@@ -31,5 +31,5 @@ export default (
         <h1>Not Found</h1>
       </Route>
     </Switch>
-  </BrowserRouter>
+  </HashRouter>
 )
