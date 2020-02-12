@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shopping/static/css/main.88824ec2.chunk.css",
-    "main.js": "/shopping/static/js/main.d4eec952.chunk.js",
-    "main.js.map": "/shopping/static/js/main.d4eec952.chunk.js.map",
-    "runtime-main.js": "/shopping/static/js/runtime-main.5e26cc9e.js",
-    "runtime-main.js.map": "/shopping/static/js/runtime-main.5e26cc9e.js.map",
-    "static/js/2.243f5bc8.chunk.js": "/shopping/static/js/2.243f5bc8.chunk.js",
-    "static/js/2.243f5bc8.chunk.js.map": "/shopping/static/js/2.243f5bc8.chunk.js.map",
-    "index.html": "/shopping/index.html",
-    "precache-manifest.d20664d4f54ce918e00f07e3745ca9e5.js": "/shopping/precache-manifest.d20664d4f54ce918e00f07e3745ca9e5.js",
-    "service-worker.js": "/shopping/service-worker.js",
-    "static/css/main.88824ec2.chunk.css.map": "/shopping/static/css/main.88824ec2.chunk.css.map",
-    "static/js/2.243f5bc8.chunk.js.LICENSE.txt": "/shopping/static/js/2.243f5bc8.chunk.js.LICENSE.txt"
+    "main.css": "https://arizonatribe.github.io/shopping/static/css/main.88824ec2.chunk.css",
+    "main.js": "https://arizonatribe.github.io/shopping/static/js/main.f7f66053.chunk.js",
+    "main.js.map": "https://arizonatribe.github.io/shopping/static/js/main.f7f66053.chunk.js.map",
+    "runtime-main.js": "https://arizonatribe.github.io/shopping/static/js/runtime-main.b033bc6e.js",
+    "runtime-main.js.map": "https://arizonatribe.github.io/shopping/static/js/runtime-main.b033bc6e.js.map",
+    "static/js/2.d192706b.chunk.js": "https://arizonatribe.github.io/shopping/static/js/2.d192706b.chunk.js",
+    "static/js/2.d192706b.chunk.js.map": "https://arizonatribe.github.io/shopping/static/js/2.d192706b.chunk.js.map",
+    "index.html": "https://arizonatribe.github.io/shopping/index.html",
+    "precache-manifest.aee01a22bbcd14ec979141225ba6ea6a.js": "https://arizonatribe.github.io/shopping/precache-manifest.aee01a22bbcd14ec979141225ba6ea6a.js",
+    "service-worker.js": "https://arizonatribe.github.io/shopping/service-worker.js",
+    "static/css/main.88824ec2.chunk.css.map": "https://arizonatribe.github.io/shopping/static/css/main.88824ec2.chunk.css.map",
+    "static/js/2.d192706b.chunk.js.LICENSE.txt": "https://arizonatribe.github.io/shopping/static/js/2.d192706b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e26cc9e.js",
-    "static/js/2.243f5bc8.chunk.js",
+    "static/js/runtime-main.b033bc6e.js",
+    "static/js/2.d192706b.chunk.js",
     "static/css/main.88824ec2.chunk.css",
-    "static/js/main.d4eec952.chunk.js"
+    "static/js/main.f7f66053.chunk.js"
   ]
 }
