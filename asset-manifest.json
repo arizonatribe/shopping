@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://arizonatribe.github.io/shopping/static/css/main.88824ec2.chunk.css",
-    "main.js": "https://arizonatribe.github.io/shopping/static/js/main.f7f66053.chunk.js",
-    "main.js.map": "https://arizonatribe.github.io/shopping/static/js/main.f7f66053.chunk.js.map",
+    "main.js": "https://arizonatribe.github.io/shopping/static/js/main.2fb28e09.chunk.js",
+    "main.js.map": "https://arizonatribe.github.io/shopping/static/js/main.2fb28e09.chunk.js.map",
     "runtime-main.js": "https://arizonatribe.github.io/shopping/static/js/runtime-main.b033bc6e.js",
     "runtime-main.js.map": "https://arizonatribe.github.io/shopping/static/js/runtime-main.b033bc6e.js.map",
-    "static/js/2.d192706b.chunk.js": "https://arizonatribe.github.io/shopping/static/js/2.d192706b.chunk.js",
-    "static/js/2.d192706b.chunk.js.map": "https://arizonatribe.github.io/shopping/static/js/2.d192706b.chunk.js.map",
+    "static/js/2.910ce2e9.chunk.js": "https://arizonatribe.github.io/shopping/static/js/2.910ce2e9.chunk.js",
+    "static/js/2.910ce2e9.chunk.js.map": "https://arizonatribe.github.io/shopping/static/js/2.910ce2e9.chunk.js.map",
     "index.html": "https://arizonatribe.github.io/shopping/index.html",
-    "precache-manifest.aee01a22bbcd14ec979141225ba6ea6a.js": "https://arizonatribe.github.io/shopping/precache-manifest.aee01a22bbcd14ec979141225ba6ea6a.js",
+    "precache-manifest.beabdf30de7965987f92a62c9e141066.js": "https://arizonatribe.github.io/shopping/precache-manifest.beabdf30de7965987f92a62c9e141066.js",
     "service-worker.js": "https://arizonatribe.github.io/shopping/service-worker.js",
     "static/css/main.88824ec2.chunk.css.map": "https://arizonatribe.github.io/shopping/static/css/main.88824ec2.chunk.css.map",
-    "static/js/2.d192706b.chunk.js.LICENSE.txt": "https://arizonatribe.github.io/shopping/static/js/2.d192706b.chunk.js.LICENSE.txt"
+    "static/js/2.910ce2e9.chunk.js.LICENSE.txt": "https://arizonatribe.github.io/shopping/static/js/2.910ce2e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b033bc6e.js",
-    "static/js/2.d192706b.chunk.js",
+    "static/js/2.910ce2e9.chunk.js",
     "static/css/main.88824ec2.chunk.css",
-    "static/js/main.f7f66053.chunk.js"
+    "static/js/main.2fb28e09.chunk.js"
   ]
 }
